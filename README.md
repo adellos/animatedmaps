@@ -1,0 +1,2 @@
+# animatedmaps
+test
